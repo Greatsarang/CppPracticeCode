@@ -1,2 +1,0 @@
-# CppPracticeCode
-Practice C++ Basics
